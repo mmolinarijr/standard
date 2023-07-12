@@ -23,5 +23,3 @@
 10. **style**: This type is used for changes related to code formatting, styling, or whitespace. It includes modifications that improve the code's appearance without changing its functionality.
 
 11. **test**: The test type is used for changes related to testing. It includes adding, modifying, or removing tests or testing-related code, such as test cases or testing utilities.
-
-By following the Angular convention and using conventional commits, developers can maintain a clear and organized commit history, making it easier to understand and track changes in a project over time. It also helps in generating automatic changelogs and performing release management tasks.
